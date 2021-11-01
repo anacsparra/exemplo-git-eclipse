@@ -2,8 +2,9 @@
 public class ExemploGit {
 
 	public static void main(String[] args) {
-		System.out.println("Ol√°, Git!");
+		System.out.println("Ol·, Git!");
 //alterado do github
+		//alterado do eclipse
 	}
 
 }
